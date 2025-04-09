@@ -11,7 +11,7 @@ License:	Apache 2.0
 Group:		Application/Audio
 
 BuildRequires:	cargo
-BuildRequires:	pkgconfig(xz)
+BuildRequires:	pkgconfig(liblmza)
 
 
 Requires:	%mklibname sequoia-sqv
