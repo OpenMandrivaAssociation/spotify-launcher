@@ -15,6 +15,7 @@ BuildRequires:	pkgconfig(liblzma)
 
 
 Requires:	%mklibname sequoia-sqv
+Requires: zenity-gtk
 
 %description
 %summary
