@@ -1,8 +1,8 @@
 %global debug_package %{nil}
 
 Name:		spotify-launcher
-Version:	0.6.3
-Release:	3
+Version:	0.6.4
+Release:	1
 Source0:	https://github.com/kpcyrd/spotify-launcher/archive/v%{version}/%{name}-%{version}.tar.gz
 Source1:    %{name}-%{version}-vendor.tar.gz
 Summary:	Client for spotifies apt repository in Rust
